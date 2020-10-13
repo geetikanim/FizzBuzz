@@ -14,7 +14,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <version.exec-maven-plugin>1.6.0</version.exec-maven-plugin>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <version.junit>4.11</version.junit>
+        <version.junit>4.13.1</version.junit>
     </properties>
 
     <dependencies>
